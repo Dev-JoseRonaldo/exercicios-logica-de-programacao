@@ -19,7 +19,7 @@ Repositório dedicado a resolver todos os desafios da Plataforma [Dikastis](http
 <!-- easy -->
 <details>
   <summary><span>Easy</span></summary><br>
-  <a href="https://github.com/Dev-JoseRonaldo/exercicios-logica-de-programacao"> Title Problem 1</a><br/> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.... <br/><br/>
+  <a href="https://github.com/Dev-JoseRonaldo/exercicios-logica-de-programacao/tree/main/challenges/aang_em_apuros"> Aang em apuros</a><br/> Aang está em uma base da nação do fogo procurando uma saída para se livrar de cinco soldados que o perseguem. Depois de muito tentar, Aang não encontra uma forma de escapar e se depara com um salão sem escapatórias... <br/><br/>
   <a href="https://github.com/Dev-JoseRonaldo/exercicios-logica-de-programacao"> Title Problem 2</a><br/> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.... <br/><br/>
 </details>
 
